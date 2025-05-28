@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="refund_password_heading_size">20sp</dimen>
+    <dimen name="refund_password_edittext_margin_top">50dp</dimen>
+    <dimen name="refund_password_heading_margin_bottom">20dp</dimen>
+</resources>
+
